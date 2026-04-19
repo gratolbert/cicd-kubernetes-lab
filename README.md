@@ -189,7 +189,7 @@ Application running in Kubernetes
 
 GitHub Actions pipeline success
 
-![GitHub Actions](screenshots/06-github-actions-success.png)
+![GitHub Actions](screenshots/06-github-actions.png)
 
 GitHub Actions build steps
 
